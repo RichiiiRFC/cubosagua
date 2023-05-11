@@ -1,4 +1,5 @@
 # RRL
+ 
 
 CFGS Desenrotllament d'Aplicacions Web
 
@@ -10,3 +11,6 @@ Programa exemple per activitat de Github amb Python
 
 ### Modificación: 11/05/2023 | 20:40
 - Vaciar cubos
+
+### Modificación: 11/05/2023 | 20:27
+- LLenar cubos
